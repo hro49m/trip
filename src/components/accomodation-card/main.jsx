@@ -66,15 +66,16 @@ export default function HotelCard() {
           <br />
           <em>ویلا سه خوابه استخر دار لوکس در شیراز</em>
           <br />
-          <span
+          <strong
             style={{
               backgroundColor: "rgba(225, 225, 225, 0.12)",
               borderRadius: "15px",
               padding: "5px",
             }}
           >
-            <strong>کد اقامتگاه: 154658465</strong>
-          </span>
+            کد اقامتگاه:
+            <code>154658465</code>
+          </strong>
         </div>
       </div>
       <div
